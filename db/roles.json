@@ -1,0 +1,22 @@
+ [
+    {
+      "name": "MID",
+      "img": "https://static.smite2.live/smite2/items/Roles/T_GodRole_Mid.webp"
+    },
+    {
+      "name": "SOLO",
+      "img": "https://static.smite2.live/smite2/items/Roles/T_GodRole_Solo.webp"
+    },
+    {
+      "name": "SUPPORT",
+      "img": "https://static.smite2.live/smite2/items/Roles/T_GodRole_Support.webp"
+    },
+    {
+      "name": "CARRY",
+      "img": "https://static.smite2.live/smite2/items/Roles/T_GodRole_Carry.webp"
+    },
+    {
+      "name": "JUNGLE",
+      "img": "https://static.smite2.live/smite2/items/Roles/T_GodRole_Jungle.webp"
+    }
+  ]

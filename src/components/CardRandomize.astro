@@ -1,0 +1,45 @@
+---
+import gods from "../../db/gods.json";
+
+const ROLES = [
+  {
+    name: "MID",
+    img: "https://static.smite2.live/smite2/items/Roles/T_GodRole_Mid.webp",
+  },
+  {
+    name: "SOLO",
+    img: "https://static.smite2.live/smite2/items/Roles/T_GodRole_Solo.webp",
+  },
+  {
+    name: "SUPPORT",
+    img: "https://static.smite2.live/smite2/items/Roles/T_GodRole_Support.webp",
+  },
+  {
+    name: "CARRY",
+    img: "https://static.smite2.live/smite2/items/Roles/T_GodRole_Carry.webp",
+  },
+  {
+    name: "JUNGLE",
+    img: "https://static.smite2.live/smite2/items/Roles/T_GodRole_Jungle.webp",
+  },
+];
+---
+
+<div class="">
+  {
+    gods.map((god) => (
+      <div class="bg-secondary mb-20 rounded-sm flex px-8 py-6 gap-10">
+        <img
+          src={god.image}
+          alt={god.name}
+          class="w-32 h-32 rounded-full border-4 border-transparent outline-4 outline-primary outline-offset-1"
+        />
+
+        <div class="flex gap-2 ">
+          <h3 class="text-white font-bold text-3xl">{god.name}</h3>
+          <h3 class="text-white font-bold text-3xl"> ROLE</h3>
+        </div>
+      </div>
+    ))
+  }
+</div>

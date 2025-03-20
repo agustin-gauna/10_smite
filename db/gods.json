@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Achilles",
+    "image": "https://static.smite2.live/smite2/GODS/Achilles/Default/t_GodPortrait_Achilles.webp"
+  },
+  {
+    "name": "Agni",
+    "image": "https://static.smite2.live/smite2/GODS/Agni/Default/t_GodPortrait_Agni.webp"
+  },
+  {
+    "name": "Aladdin",
+    "image": "https://static.smite2.live/smite2/GODS/Aladdin/Default/t_GodPortrait_Aladdin.webp"
+  },
+  {
+    "name": "Amaterasu",
+    "image": "https://static.smite2.live/smite2/GODS/Amaterasu/Default/t_GodPortrait_Amaterasu.webp"
+  },
+  {
+    "name": "Anhur",
+    "image": "https://static.smite2.live/smite2/GODS/Anhur/Default/t_GodPortrait_Anhur.webp"
+  },
+  {
+    "name": "Anubis",
+    "image": "https://static.smite2.live/smite2/GODS/Anubis/Default/t_GodPortrait_Anubis.webp"
+  },
+  {
+    "name": "Aphrodite",
+    "image": "https://static.smite2.live/smite2/GODS/Aphrodite/Default/t_GodPortrait_Aphrodite.webp"
+  },
+  {
+    "name": "Ares",
+    "image": "https://static.smite2.live/smite2/GODS/Ares/Default/t_GodPortrait_Ares.webp"
+  },
+  {
+    "name": "Artemis",
+    "image": "https://static.smite2.live/smite2/GODS/Artemis/Default/t_GodPortrait_Artemis.webp"
+  },
+  {
+    "name": "Athena",
+    "image": "https://static.smite2.live/smite2/GODS/Athena/Default/t_GodPortrait_Athena.webp"
+  },
+  {
+    "name": "Awilix",
+    "image": "https://static.smite2.live/smite2/GODS/Awilix/Default/t_GodPortrait_Awilix.webp"
+  },
+  {
+    "name": "Bacchus",
+    "image": "https://static.smite2.live/smite2/GODS/Bacchus/Default/t_GodPortrait_Bacchus.webp"
+  },
+  {
+    "name": "Baron Samedi",
+    "image": "https://static.smite2.live/smite2/GODS/BaronSamedi/Default/t_GodPortrait_BaronSamedi.webp"
+  },
+  {
+    "name": "Bellona",
+    "image": "https://static.smite2.live/smite2/GODS/Bellona/Default/t_GodPortrait_Bellona.webp"
+  },
+  {
+    "name": "Cabrakan",
+    "image": "https://static.smite2.live/smite2/GODS/Cabrakan/Default/t_GodPortrait_Cabrakan.webp"
+  },
+  {
+    "name": "Cernunnos",
+    "image": "https://static.smite2.live/smite2/GODS/Cernunnos/Default/t_GodPortrait_Cernunnos.webp"
+  },
+  {
+    "name": "Chaac",
+    "image": "https://static.smite2.live/smite2/GODS/Chaac/Default/t_GodPortrait_Chaac.webp"
+  },
+  {
+    "name": "Cupid",
+    "image": "https://static.smite2.live/smite2/GODS/Cupid/Default/t_GodPortrait_Cupid.webp"
+  },
+  {
+    "name": "Danzaburou",
+    "image": "https://static.smite2.live/smite2/GODS/Danzaburou/Default/t_GodPortrait_Danzaburou.webp"
+  },
+  {
+    "name": "Fenrir",
+    "image": "https://static.smite2.live/smite2/GODS/Fenrir/Default/t_GodPortrait_Fenrir.webp"
+  },
+  {
+    "name": "Geb",
+    "image": "https://static.smite2.live/smite2/GODS/Geb/Default/t_GodPortrait_Geb.webp"
+  },
+  {
+    "name": "Hades",
+    "image": "https://static.smite2.live/smite2/GODS/Hades/Default/t_GodPortrait_Hades.webp"
+  },
+  {
+    "name": "Hecate",
+    "image": "https://static.smite2.live/smite2/GODS/Hecate/Default/t_GodPortrait_Hecate.webp"
+  },
+  {
+    "name": "Hercules",
+    "image": "https://static.smite2.live/smite2/GODS/Hercules/Default/t_GodPortrait_Hercules.webp"
+  },
+  {
+    "name": "Hua Mulan",
+    "image": "https://static.smite2.live/smite2/GODS/Mulan/Default/t_GodPortrait_Mulan.webp"
+  },
+  {
+    "name": "Hun Batz",
+    "image": "https://static.smite2.live/smite2/GODS/HunBatz/Default/t_GodPortrait_HunBatz.webp"
+  },
+  {
+    "name": "Izanami",
+    "image": "https://static.smite2.live/smite2/GODS/Izanami/Default/t_GodPortrait_Izanami.webp"
+  },
+  {
+    "name": "Jing Wei",
+    "image": "https://static.smite2.live/smite2/GODS/JingWei/Default/t_GodPortrait_JingWei.webp"
+  },
+  {
+    "name": "Khepri",
+    "image": "https://static.smite2.live/smite2/GODS/Khepri/Default/t_GodPortrait_Khepri.webp"
+  },
+  {
+    "name": "Kukulkan",
+    "image": "https://static.smite2.live/smite2/GODS/Kukulkan/Default/t_GodPortrait_Kukulkan.webp"
+  },
+  {
+    "name": "Loki",
+    "image": "https://static.smite2.live/smite2/GODS/Loki/Default/t_GodPortrait_Loki.webp"
+  },
+  {
+    "name": "Medusa",
+    "image": "https://static.smite2.live/smite2/GODS/Medusa/Default/t_GodPortrait_Medusa.webp"
+  },
+  {
+    "name": "Mordred",
+    "image": "https://static.smite2.live/smite2/GODS/Mordred/Default/t_GodPortrait_Mordred.webp"
+  },
+  {
+    "name": "Neith",
+    "image": "https://static.smite2.live/smite2/GODS/Neith/Default/t_GodPortrait_Neith.webp"
+  },
+  {
+    "name": "Nemesis",
+    "image": "https://static.smite2.live/smite2/GODS/Nemesis/Default/t_GodPortrait_Nemesis.webp"
+  },
+  {
+    "name": "Nu Wa",
+    "image": "https://static.smite2.live/smite2/GODS/NuWa/Default/t_GodPortrait_NuWa.webp"
+  },
+  {
+    "name": "Odin",
+    "image": "https://static.smite2.live/smite2/GODS/Odin/Default/t_GodPortrait_Odin.webp"
+  },
+  {
+    "name": "Pele",
+    "image": "https://static.smite2.live/smite2/GODS/Pele/Default/t_GodPortrait_Pele.webp"
+  },
+  {
+    "name": "Poseidon",
+    "image": "https://static.smite2.live/smite2/GODS/Poseidon/Default/t_GodPortrait_Poseidon.webp"
+  },
+  {
+    "name": "Princess Bari",
+    "image": "https://static.smite2.live/smite2/GODS/Bari/Default/t_GodPortrait_Bari.webp"
+  },
+  {
+    "name": "Ra",
+    "image": "https://static.smite2.live/smite2/GODS/Ra/Default/t_GodPortrait_Ra.webp"
+  },
+  {
+    "name": "Rama",
+    "image": "https://static.smite2.live/smite2/GODS/Rama/Default/t_GodPortrait_Rama.webp"
+  },
+  {
+    "name": "Sobek",
+    "image": "https://static.smite2.live/smite2/GODS/Sobek/Default/t_GodPortrait_Sobek.webp"
+  },
+  {
+    "name": "Sol",
+    "image": "https://static.smite2.live/smite2/GODS/Sol/Default/t_GodPortrait_Sol.webp"
+  },
+  {
+    "name": "Susano",
+    "image": "https://static.smite2.live/smite2/GODS/Susano/Default/t_GodPortrait_Susano.webp"
+  },
+  {
+    "name": "Thanatos",
+    "image": "https://static.smite2.live/smite2/GODS/Thanatos/Default/t_GodPortrait_Thanatos.webp"
+  },
+  {
+    "name": "The Morrigan",
+    "image": "https://static.smite2.live/smite2/GODS/TheMorrigan/Default/t_GodPortrait_TheMorrigan.webp"
+  },
+  {
+    "name": "Thor",
+    "image": "https://static.smite2.live/smite2/GODS/Thor/Default/t_GodPortrait_Thor.webp"
+  },
+  {
+    "name": "Ullr",
+    "image": "https://static.smite2.live/smite2/GODS/Ullr/Default/t_GodPortrait_Ullr.webp"
+  },
+  {
+    "name": "Vulcan",
+    "image": "https://static.smite2.live/smite2/GODS/Vulcan/Default/t_GodPortrait_Vulcan.webp"
+  },
+  {
+    "name": "Yemoja",
+    "image": "https://static.smite2.live/smite2/GODS/Yemoja/Default/t_GodPortrait_Yemoja.webp"
+  },
+  {
+    "name": "Ymir",
+    "image": "https://static.smite2.live/smite2/GODS/Ymir/Default/t_GodPortrait_Ymir.webp"
+  },
+  {
+    "name": "Zeus",
+    "image": "https://static.smite2.live/smite2/GODS/Zeus/Default/t_GodPortrait_Zeus.webp"
+  }
+]

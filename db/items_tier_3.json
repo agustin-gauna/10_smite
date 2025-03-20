@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Aladdin Lamp",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Aladdin_Lamp.webp"
+  },
+  {
+    "name": "Screeching Gargoyle",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_ScreechingGargoyle.webp"
+  },
+  {
+    "name": "Vulcan Alternator Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Alternater.webp"
+  },
+  {
+    "name": "Vulcan Dual Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Dual.webp"
+  },
+  {
+    "name": "Vulcan Efficiency Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Efficiency.webp"
+  },
+  {
+    "name": "Vulcan Masterwork Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Masterwork.webp"
+  },
+  {
+    "name": "Vulcan Resonator Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Resonator.webp"
+  },
+  {
+    "name": "Vulcan Seismic Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Seismic.webp"
+  },
+  {
+    "name": "Vulcan Shrapnel Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Shrapnel.webp"
+  },
+  {
+    "name": "Vulcan Surplus Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Surplus.webp"
+  },
+  {
+    "name": "Vulcan Thermal Mod",
+    "image": "https://static.smite2.live/smite2/items/icons/t_Item_Vulcan_Thermal.webp"
+  },
+  {
+    "name": "Amanita Charm",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_RestorativeAmanita.webp"
+  },
+  {
+    "name": "Arondight",
+    "image": "https://static.smite2.live/smite2/items/icons/Icons_T3_Arondight.webp"
+  },
+  {
+    "name": "Avatar's Parashu",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Parashu.webp"
+  },
+  {
+    "name": "Avenging Blade",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_AvengingBlade.webp"
+  },
+  {
+    "name": "Bagua Mirror",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BaguaMirror.webp"
+  },
+  {
+    "name": "Bancroft's Talon",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BancroftsTalon.webp"
+  },
+  {
+    "name": "Berserker's Shield",
+    "image": "https://static.smite2.live/smite2/items/icons/Icons_T3_Berserker.webp"
+  },
+  {
+    "name": "Blinking Amulet",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BlinkingAmulet.webp"
+  },
+  {
+    "name": "Blood-Bound Book",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Blood-BoundBook.webp"
+  },
+  {
+    "name": "Bloodforge",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BloodForgedBlade.webp"
+  },
+  {
+    "name": "Book of Thoth",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BookofThroth.webp"
+  },
+  {
+    "name": "Bracer of The Abyss",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_HandOfTheAbyss.webp"
+  },
+  {
+    "name": "Bragi's Harp",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BragisHarp.webp"
+  },
+  {
+    "name": "Brawler's Ruin",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BrawlersRuin.webp"
+  },
+  {
+    "name": "Breastplate of Valor",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_BreastplateOfValor.webp"
+  },
+  {
+    "name": "Chronos' Pendant",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_ChronosPendant.webp"
+  },
+  {
+    "name": "Circe's Hexstone",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_CircesHexstone.webp"
+  },
+  {
+    "name": "Dagger of Frenzy",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_DaggerOfFrenzy.webp"
+  },
+  {
+    "name": "Death Metal",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_DeathMetal.webp"
+  },
+  {
+    "name": "Deathbringer",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Deathbringer.webp"
+  },
+  {
+    "name": "Demon Blade",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BanefulRapier.webp"
+  },
+  {
+    "name": "Demonic Grip",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_DemonicGrip.webp"
+  },
+  {
+    "name": "Devourer's Gauntlet",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_DevoursGloves.webp"
+  },
+  {
+    "name": "Divine Ruin",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_DivineRuin.webp"
+  },
+  {
+    "name": "Dominance",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Dominance.webp"
+  },
+  {
+    "name": "Doom Orb",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_DoomOrb.webp"
+  },
+  {
+    "name": "Dreamer's Idol",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_DreamersIdol.webp"
+  },
+  {
+    "name": "Emblem of Namaka",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TalismanOfNamaka.webp"
+  },
+  {
+    "name": "Eros' Bow",
+    "image": "https://static.smite2.live/smite2/items/icons/erosbow.webp"
+  },
+  {
+    "name": "Eye of Providence",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_EyeOfProvidence.webp"
+  },
+  {
+    "name": "Eye of the Storm",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_EyeOfTheStorm.webp"
+  },
+  {
+    "name": "Gauntlet of Thebes",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_GauntletOfThebes.webp"
+  },
+  {
+    "name": "Gem of Focus",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_GemOfFocus.webp"
+  },
+  {
+    "name": "Gem of Isolation",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_GemOfIsolation.webp"
+  },
+  {
+    "name": "Genji's Guard",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_GenjisGuard.webp"
+  },
+  {
+    "name": "Gladiator's Shield",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_LorgMor.webp"
+  },
+  {
+    "name": "Glorious Pridwen",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Glorious_Pridwen.webp"
+  },
+  {
+    "name": "Golden Blade",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_GoldenBlade.webp"
+  },
+  {
+    "name": "Hastened Fatalis",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_HastenedFatalis.webp"
+  },
+  {
+    "name": "Heartseeker",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Heartseeker.webp"
+  },
+  {
+    "name": "Helm of Darkness",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_HelmOfDarkness.webp"
+  },
+  {
+    "name": "Helm of Radiance",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_HelmOfRadiance.webp"
+  },
+  {
+    "name": "Hide of the Nemean Lion",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_HideoftheNemeanLion.webp"
+  },
+  {
+    "name": "Hussar's Wings",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_HussarsWings.webp"
+  },
+  {
+    "name": "Hydra's Lament",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_HydrasLament.webp"
+  },
+  {
+    "name": "Jade Scepter",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_JadeScepter.webp"
+  },
+  {
+    "name": "Jotunn's Revenge",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_JotunnsRevenge.webp"
+  },
+  {
+    "name": "Lernaean Bow",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_LernaeanBow.webp"
+  },
+  {
+    "name": "Leviathan's Hide",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_LevianthansHide.webp"
+  },
+  {
+    "name": "Lifebinder",
+    "image": "https://static.smite2.live/smite2/items/icons/Curseweaver_T3_Tweak.webp"
+  },
+  {
+    "name": "Magi's Cloak",
+    "image": "https://static.smite2.live/smite2/items/icons/magisshelter.webp"
+  },
+  {
+    "name": "Mantle Of Discord",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_MantleOfDiscord.webp"
+  },
+  {
+    "name": "Musashi's Dual Swords",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_MusashisDualSwords.webp"
+  },
+  {
+    "name": "Mystical Mail",
+    "image": "https://static.smite2.live/smite2/items/icons/Icons_T3_MysticalMail.webp"
+  },
+  {
+    "name": "Necronomicon",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Necronomicon.webp"
+  },
+  {
+    "name": "Nimble Ring",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_NimbleRing.webp"
+  },
+  {
+    "name": "Oath-Sworn Spear",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_SerpentSpear.webp"
+  },
+  {
+    "name": "Obsidian Shard",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BalorsEye.webp"
+  },
+  {
+    "name": "Odysseus' Bow",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_OdysseusBow.webp"
+  },
+  {
+    "name": "Oni Hunter's Garb",
+    "image": "https://static.smite2.live/smite2/items/icons/Icons_T3_OniHuntersGarb.webp"
+  },
+  {
+    "name": "Pendulum Blade",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_PendulumBlade.webp"
+  },
+  {
+    "name": "Phantom Ring",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_PhantomRing.webp"
+  },
+  {
+    "name": "Pharaoh's Curse",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_PharaohsCurse.webp"
+  },
+  {
+    "name": "Phoenix Feather",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_PhoenixAmulet.webp"
+  },
+  {
+    "name": "Polynomicon",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Polynomicon.webp"
+  },
+  {
+    "name": "Prophetic Cloak",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Prophetic_Cloak.webp"
+  },
+  {
+    "name": "Qin's Blade",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_QinsBlade.webp"
+  },
+  {
+    "name": "Rod Of Asclepius",
+    "image": "https://static.smite2.live/smite2/items/icons/RodofAscelpius_T3.webp"
+  },
+  {
+    "name": "Rod of Tahuti",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_EldritchOrb.webp"
+  },
+  {
+    "name": "Ruinous Ankh",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_RuinousAnkh.webp"
+  },
+  {
+    "name": "Scepter of Dominion",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_ScepterofDominion.webp"
+  },
+  {
+    "name": "Serrated Edge",
+    "image": "https://static.smite2.live/smite2/items/icons/Icons_T3_SerratedEdge.webp"
+  },
+  {
+    "name": "Shield Splitter",
+    "image": "https://static.smite2.live/smite2/items/icons/shieldsplitter.webp"
+  },
+  {
+    "name": "Shield of the Phoenix",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_ShieldOfThePhoenix.webp"
+  },
+  {
+    "name": "Shifter's Shield",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_ShapeShifterShield.webp"
+  },
+  {
+    "name": "Shogun's Ofuda",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_ShogunsOfuda.webp"
+  },
+  {
+    "name": "Soul Gem",
+    "image": "https://static.smite2.live/smite2/items/icons/Icons_T3_SoulGem.webp"
+  },
+  {
+    "name": "Soul Reaver",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_SoulDevourer.webp"
+  },
+  {
+    "name": "Spear of Desolation",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_SpearofDesolation.webp"
+  },
+  {
+    "name": "Spectral Armor",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_SilkenMailcoat.webp"
+  },
+  {
+    "name": "Sphere of Negation",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_SphereOfNegation.webp"
+  },
+  {
+    "name": "Spirit Robe",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_SpiritRobe.webp"
+  },
+  {
+    "name": "Staff of Myrddin",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_StaffOfMyrddin.webp"
+  },
+  {
+    "name": "Stampede",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Stampede.webp"
+  },
+  {
+    "name": "Stone of Binding",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_BindingsOfLyngvi.webp"
+  },
+  {
+    "name": "Sun Beam Bow",
+    "image": "https://static.smite2.live/smite2/items/icons/Icons_DesignTemp_T3_NewSunBeamBow.webp"
+  },
+  {
+    "name": "Talisman of Purification",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TalismanOfPurification.webp"
+  },
+  {
+    "name": "Tekko-Kagi",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TekkoKagi.webp"
+  },
+  {
+    "name": "The Cosmic Horror",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_StaffOfCosmicHorror.webp"
+  },
+  {
+    "name": "The Crusher",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Crusher.webp"
+  },
+  {
+    "name": "The Executioner",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TheExecutioner.webp"
+  },
+  {
+    "name": "The Reaper",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TheReaper.webp"
+  },
+  {
+    "name": "The World Stone",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TheWorldStone.webp"
+  },
+  {
+    "name": "Titan's Bane",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_ObsidianMacuahuitl.webp"
+  },
+  {
+    "name": "Totem of Death",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TotemOfDeath.webp"
+  },
+  {
+    "name": "Transcendence",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Transcendence.webp"
+  },
+  {
+    "name": "Triton's Conch",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TritonsConch.webp"
+  },
+  {
+    "name": "Typhon's Fang",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_TyphonsFang.webp"
+  },
+  {
+    "name": "Void Shield",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_VoidShield.webp"
+  },
+  {
+    "name": "Void Stone",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_VoidStone.webp"
+  },
+  {
+    "name": "Wish-Granting Pearl",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_Wish-GrantingPearl.webp"
+  },
+  {
+    "name": "Yogi's Necklace",
+    "image": "https://static.smite2.live/smite2/items/icons/Icon_T3_YogisNecklace.webp"
+  }
+]

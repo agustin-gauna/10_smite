@@ -1,11 +1,34 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import RandomTotal from "../components/RandomTotal";
+import Layout from "../layouts/Layout.astro";
+import FlipGame from "../components/FlipGame";
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import gods from "../../db/gods.json";
+import roles from "../../db/roles.json";
+import items_tier_3 from "../../db/items_tier_3.json";
+import challenges from "../../db/challenges.json";
+
+const excluitedItems = [
+  "Aladdin Lamp",
+  "Vulcan Alternator Mod",
+  "Vulcan Dual Mod",
+  "Vulcan Efficiency Mod",
+  "Vulcan Masterwork Mod",
+  "Vulcan Resonator Mod",
+  "Vulcan Seismic Mod",
+  "Vulcan Shrapnel Mod",
+  "Vulcan Surplus Mod",
+  "Vulcan Thermal Mod",
+];
+
+const filteredItems = items_tier_3.filter(
+  (item) => !excluitedItems.includes(item.name)
+);
 ---
 
 <Layout>
-	<Welcome />
+  <div class="max-w-2xl mx-auto px-2 flex flex-col grow">
+    <RandomTotal client:load gods={gods} roles={roles} items={filteredItems} />
+    <FlipGame client:load gods={gods} challenges={challenges} />
+  </div>
 </Layout>
