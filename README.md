@@ -1,48 +1,32 @@
-# Astro Starter Kit: Basics
+# SmiteRandom - ¡Genera combinaciones locas y diviértete en Smite!
 
-```sh
-npm create astro@latest -- --template basics
-```
+¡Bienvenido a **SmiteRandom**! Este proyecto es una herramienta divertida y aleatoria para la comunidad de _Smite_. ¿Cansado de jugar siempre con los mismos dioses y roles? ¡Aquí puedes generar combinaciones locas, desafíos aleatorios y mucho más!
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+---
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🎮 ¿Qué es SmiteRandom?
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+SmiteRandom es una web interactiva que te permite:
 
-## 🚀 Project Structure
+- **Generar dioses y roles aleatorios** (¡incluso si no tienen sentido!).
+- **Crear desafíos locos** para jugar partidas únicas.
+- **Divertirte** probando combinaciones que nunca imaginaste.
 
-Inside of your Astro project, you'll see the following folders and files:
+¡Perfecto para jugadores que buscan algo nuevo, divertido y fuera de lo común!
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+---
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 🚀 Características
 
-## 🧞 Commands
+- **Generador de dioses y roles**: Elige un dios y un rol al azar, ¡incluso si no coinciden!
+- **Desafíos aleatorios**: Recibe reglas locas para tus partidas, como "No uses tu habilidad definitiva" o "Juega como soporte con un asesino".
+- **Interfaz divertida y fácil de usar**: Diseño moderno y responsive para que puedas usarlo en cualquier dispositivo.
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## 🛠️ Tecnologías Utilizadas
 
-## 👀 Want to learn more?
+- **Frontend**: Astro, React, Tailwind
+- **Despliegue**: Vercel
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+---
