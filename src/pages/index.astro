@@ -27,7 +27,7 @@ const filteredItems = items_tier_3.filter(
 ---
 
 <Layout>
-  <div class="max-w-2xl mx-auto px-2 flex flex-col grow">
+  <div class="max-w-2xl mx-auto px-2 flex flex-col grow gap-10">
     <RandomTotal client:load gods={gods} roles={roles} items={filteredItems} />
     <FlipGame client:load gods={gods} challenges={challenges} />
   </div>
